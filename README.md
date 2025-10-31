@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Hey there — I’m Bujar Tahiri, a Full-Stack JavaScript Developer and Co-Founder of Agjenda.com<br> / Dertermin.com<br> — a successful SaaS appointment-management platform used by 100+ paying businesses across Kosovo, Switzerland, Germany, and Austria.<br><br>I specialize in building scalable, modern web applications with clean architecture and smooth UX. My work combines frontend precision, backend logic, and product vision — turning real business needs into beautiful, high-performing digital products.<br><br>🧠 Tech Stack & Focus<br>🚀 Frontend<br><br>Nuxt 3, Vue 3 (Composition API), Pinia<br><br>React, Next.js, Tailwind CSS, Shadcn UI<br><br>TypeScript, Vite, Inertia, Ionic<br><br>⚙️ Backend<br><br>Node.js (Express, TypeScript, Drizzle ORM)<br><br>MySQL / PostgreSQL<br><br>Laravel (Basic Level – APIs & Filament Admin)<br><br>☁️ DevOps / Cloud<br><br>AWS (learning focus) – EC2, S3, IAM, Route 53<br><br>Ubuntu Server + Nginx, Forge, Vercel, Cloudflare, Certbot SSL<br><br>🧩 Projects & Ventures<br><br>🧾 Agjenda / Dertermin<br> — Co-Founder & Frontend Developer<br>B2B SaaS for booking & appointment management, serving 100+ businesses.<br>Stack: Nuxt 3 + Laravel + Filament + MySQL + Tailwind.<br><br>💰 Coin2Fast<br> (in development) — Founder<br>A next-gen online crypto exchange allowing users in the Balkans and EU to buy cryptocurrencies via credit/debit cards.<br>Focus on payment gateway integration, on-ramp/off-ramp , and automated cryptocurrencie delivery.
 
-<!--
-**bujartahiri/bujartahiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bujar.tahiri/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.bujartahiri@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=bujartahiri&theme=dark&hide_border=false)<br/>
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
