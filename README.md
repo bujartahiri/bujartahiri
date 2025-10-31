@@ -10,6 +10,3 @@ Hey there — I’m Bujar Tahiri, a Full-Stack JavaScript Developer and Co-Found
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=bujartahiri&theme=dark&hide_border=false)<br/>
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
